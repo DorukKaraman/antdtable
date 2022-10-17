@@ -1,0 +1,15 @@
+.ant-btn > span {
+    text-decoration-line: underline !important;
+}
+
+.ant-table-container {
+    padding: 50px
+}
+
+.ant-pagination {
+    margin-right: 50px !important;
+}
+
+.ant-table-cell{
+    padding: 0 16px !important;
+}
