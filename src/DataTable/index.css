@@ -1,5 +1,6 @@
 .ant-btn > span {
     text-decoration-line: underline !important;
+    color: blue !important;
 }
 
 .ant-table-container {
